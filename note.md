@@ -1,0 +1,9 @@
++ vue-template-compiler@2.6.12   编译vue-template模块
++ vue-loader@15.9.5  解析.vue文件
++ babel-loader@8.1.0  babel和webpack桥梁
++ vue-style-loader@4.1.2  把样式插入style标签中
++ css-loader@5.0.1  解析样式
++ webpack-cli@4.2.0   webpack解析命令行
++ @babel/preset-env@7.12.1  将高级语法转化为低级语法
++ @babel/core@7.12.3  babel核心模块
++ webpack@5.4.0  webpack核心打包工具
